@@ -1,0 +1,49 @@
+*{
+  padding: 0px;
+  margin: 0px;
+}
+canvas{
+	border: 1vw solid black;
+	width: 100%;
+
+}
+
+body{
+
+}
+
+.container{
+	margin: 0vw;
+
+}
+.buttons{
+
+	margin: 1vwpx;
+	display: flex;
+	flex-direction: row;
+
+	padding-bottom: 5px: 
+	margin: 1vw;
+	border: 1px solid red;
+}
+.buttons > *{
+	flex-basis: 50%;
+	height: 120%;
+	background: lightgreen;
+	font-size: 1em;
+	font-weight: 5;
+	font-family: monospace;
+	padding-bottom: 5px: 
+	margin: 1vw;
+	border: 1px solid red;
+}
+
+
+
+
+div.author{
+	width: 100%;
+	text-align: center;
+	font-size: 1em;
+}
+
